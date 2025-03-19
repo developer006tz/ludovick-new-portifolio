@@ -3,7 +3,7 @@
   <div class="w-full bg-black/90 text-gray-800  font-sans print:max-w-full print:m-0 print:p-0">
     <NuxtRouteAnnouncer />
       <!-- Print-optimized A4 container with refined padding and layout  -->
-      <div class="max-w-4xl mx-auto bg-white shadow-xl print:shadow-none print:max-w-full">
+      <div class="max-w-5xl mx-auto bg-white shadow-xl print:shadow-none print:max-w-full">
         
          <!-- Elegant gradient banner with subtle animation  -->
         <div class="h-10 bg-gradient-to-r from-blue-700 via-indigo-600 to-blue-800 print:h-6 relative overflow-hidden">
@@ -77,19 +77,40 @@
             <div class="bg-gray-50 rounded-lg p-4">
               <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
                 <div>
-                  <div class="mb-3">
+                  <div class="mb-6">
                     <h4 class="font-semibold mb-2 text-indigo-700 flex items-center">
                       <Icon name="mingcute:code-line" class="text-indigo-700 w-5 h-5" />
                       Frontend Development
                     </h4>
                     <div class="flex flex-wrap gap-2">
-                      <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-xs">React.js</span>
-                      <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-xs">Next.js</span>
-                      <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-xs">Vue.js</span>
-                      <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-xs">Nuxt.js</span>
-                      <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-xs">JavaScript/TypeScript</span>
-                      <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-xs">Flutter</span>
-                      <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-xs">React Native</span>
+                      <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-xs flex items-center">
+                        <Icon name="logos:react" class="w-3 h-3 mr-1" />
+                        React.js
+                      </span>
+                      <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-xs flex items-center">
+                        <Icon name="logos:nextjs-icon" class="w-3 h-3 mr-1" />
+                        Next.js
+                      </span>
+                      <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-xs flex items-center">
+                        <Icon name="logos:vue" class="w-3 h-3 mr-1" />
+                        Vue.js
+                      </span>
+                      <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-xs flex items-center">
+                        <Icon name="logos:nuxt-icon" class="w-3 h-3 mr-1" />
+                        Nuxt.js
+                      </span>
+                      <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-xs flex items-center">
+                        <Icon name="logos:typescript-icon" class="w-3 h-3 mr-1" />
+                        JavaScript/TypeScript
+                      </span>
+                      <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-xs flex items-center">
+                        <Icon name="logos:flutter" class="w-3 h-3 mr-1" />
+                        Flutter
+                      </span>
+                      <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-xs flex items-center">
+                        <Icon name="logos:react" class="w-3 h-3 mr-1" />
+                        React Native
+                      </span>
                     </div>
                   </div>
                   
@@ -100,40 +121,82 @@
                       Backend Development
                     </h4>
                     <div class="flex flex-wrap gap-2">
-                      <span class="px-2 py-1 bg-green-100 text-green-800 rounded text-xs">Node.js</span>
-                      <span class="px-2 py-1 bg-green-100 text-green-800 rounded text-xs">Express.js</span>
-                      <span class="px-2 py-1 bg-green-100 text-green-800 rounded text-xs">Nest.js</span>
-                      <span class="px-2 py-1 bg-green-100 text-green-800 rounded text-xs">PHP (Laravel)</span>
-                      <span class="px-2 py-1 bg-green-100 text-green-800 rounded text-xs">Java (Spring Boot)</span>
-                      <span class="px-2 py-1 bg-green-100 text-green-800 rounded text-xs">RESTful API Design</span>
+                      <span class="px-2 py-1 bg-blue-100 text-green-800 rounded text-xs flex items-center">
+                        <Icon name="logos:nodejs-icon" class="w-3 h-3 mr-1" />
+                        Node.js
+                      </span>
+                      <span class="px-2 py-1 bg-blue-100 text-green-800 rounded text-xs flex items-center">
+                        <Icon name="simple-icons:express" class="w-3 h-3 mr-1" />
+                        Express.js
+                      </span>
+                      <span class="px-2 py-1 bg-blue-100 text-green-800 rounded text-xs flex items-center">
+                        <Icon name="logos:nestjs" class="w-3 h-3 mr-1" />
+                        Nest.js
+                      </span>
+                      <span class="px-2 py-1 bg-blue-100 text-green-800 rounded text-xs flex items-center">
+                        <Icon name="logos:laravel" class="w-3 h-3 mr-1" />
+                        PHP (Laravel)
+                      </span>
+                      <span class="px-2 py-1 bg-blue-100  text-green-800 rounded text-xs flex items-center">
+                        <Icon name="logos:spring-icon" class="w-3 h-3 mr-1" />
+                        Java (Spring Boot)
+                      </span>
+                      <span class="px-2 py-1 bg-blue-100  text-green-800 rounded text-xs flex items-center">
+                        <Icon name="carbon:api" class="w-3 h-3 mr-1" />
+                        RESTful API Design
+                      </span>
                     </div>
                   </div>
                 </div>
                 
                 <div>
-                  <div class="mb-3">
+                  <div class="mb-6">
                     <h4 class="font-semibold mb-2 text-indigo-700 flex items-center">
                       <Icon name="solar:database-bold" class="text-indigo-700 w-5 h-5" />
                       Database Technologies
                     </h4>
                     <div class="flex flex-wrap gap-2">
-                      <span class="px-2 py-1 bg-purple-100 text-purple-800 rounded text-xs">PostgreSQL</span>
-                      <span class="px-2 py-1 bg-purple-100 text-purple-800 rounded text-xs">MySQL</span>
-                      <span class="px-2 py-1 bg-purple-100 text-purple-800 rounded text-xs">MongoDB</span>
+                      <span class="px-2 py-1 bg-purple-100 text-purple-800 rounded text-xs flex items-center">
+                        <Icon name="logos:postgresql" class="w-3 h-3 mr-1" />
+                        PostgreSQL
+                      </span>
+                      <span class="px-2 py-1 bg-purple-100 text-purple-800 rounded text-xs flex items-center">
+                        <Icon name="logos:mysql" class="w-3 h-3 mr-1" />
+                        MySQL
+                      </span>
+                      <span class="px-2 py-1 bg-purple-100 text-purple-800 rounded text-xs flex items-center">
+                        <Icon name="devicon-plain:mongodb" class="w-3 h-3 mr-1" />
+                        MongoDB
+                      </span>
                     </div>
                   </div>
                   
-                  <div class="mb-3">
+                  <div class="mb-6">
                     <h4 class="font-semibold mb-2 text-indigo-700 flex items-center">
                       <Icon name="carbon:ibm-devops-control" class="text-indigo-700 w-5 h-5" />
                       DevOps & Tooling
                     </h4>
                     <div class="flex flex-wrap gap-2">
-                      <span class="px-2 py-1 bg-gray-200 text-gray-800 rounded text-xs">Git</span>
-                      <span class="px-2 py-1 bg-gray-200 text-gray-800 rounded text-xs">GitHub</span>
-                      <span class="px-2 py-1 bg-gray-200 text-gray-800 rounded text-xs">Gitlab</span>
-                      <span class="px-2 py-1 bg-gray-200 text-gray-800 rounded text-xs">CI/CD Pipelines</span>
-                      <span class="px-2 py-1 bg-gray-200 text-gray-800 rounded text-xs">Docker</span>
+                      <span class="px-2 py-1 bg-gray-200 text-gray-800 rounded text-xs flex items-center">
+                        <Icon name="mdi:git" class="w-3 h-3 mr-1" />
+                        Git
+                      </span>
+                      <span class="px-2 py-1 bg-gray-200 text-gray-800 rounded text-xs flex items-center">
+                        <Icon name="mdi:github" class="w-3 h-3 mr-1" />
+                        GitHub
+                      </span>
+                      <span class="px-2 py-1 bg-gray-200 text-gray-800 rounded text-xs flex items-center">
+                        <Icon name="mdi:gitlab" class="w-3 h-3 mr-1" />
+                        Gitlab
+                      </span>
+                      <span class="px-2 py-1 bg-gray-200 text-gray-800 rounded text-xs flex items-center">
+                        <Icon name="material-icon-theme:pipeline" class="w-3 h-3 mr-1" />
+                        CI/CD Pipelines
+                      </span>
+                      <span class="px-2 py-1 bg-gray-200 text-gray-800 rounded text-xs flex items-center">
+                        <Icon name="mdi:docker" class="w-3 h-3 mr-1" />
+                        Docker
+                      </span>
                     </div>
                   </div>
                   
