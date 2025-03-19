@@ -218,6 +218,10 @@
                         <Icon name="mdi:palette-outline" class="w-3 h-3 mr-1" />
                         UI/UX Design
                       </span>
+                      <span class="px-2 py-1 bg-pink-100 text-pink-800 rounded text-xs flex items-center">
+                        <Icon name="simple-icons:figma" class="w-3 h-3 mr-1" />
+                        Figma
+                      </span>
                     </div>
                   </div>
                 </div>
