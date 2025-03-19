@@ -1,1 +1,11 @@
+User-agent: *
+Allow: /
 
+# Prevent scraping of contact information
+Disallow: /contact-form/
+
+# Sitemap
+Sitemap: https://ludovick.site/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 10
