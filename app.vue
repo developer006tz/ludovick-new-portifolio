@@ -15,7 +15,8 @@
             <img 
               src="https://bku0cm0nci.ufs.sh/f/Zj1Zt2SVfavcs5tdn6bA5RZmOrulFvbt0M7Lo6HWnI9Txcai" 
               alt="Ludovick Konyo" 
-              class="w-full h-full object-cover"
+              class="w-full h-full object-cover cursor-pointer"
+              @click="showImageModal = true"
             />
           </div>
           <div class="flex-grow text-center md:text-left md:pl-6 mt-12 md:mt-0 print:text-left print:pl-6 print:mt-0">
@@ -495,4 +496,47 @@
         </footer>
       </div>
     </div>
+
+     <!-- Image Modal -->
+    <Teleport to="body">
+      <transition name="fade">
+        <div v-if="showImageModal" class="fixed inset-0 z-50 flex items-center justify-center p-4" @click="showImageModal = false">
+          <div class="absolute inset-0 bg-black/80 backdrop-blur-sm"></div>
+          <div class="relative z-10 max-w-xl mx-auto">
+            <div class="relative">
+              <div class="rounded-full overflow-hidden border-8 border-white/20 shadow-2xl w-64 h-64 sm:w-80 sm:h-80 mx-auto">
+                <img 
+                  src="https://bku0cm0nci.ufs.sh/f/Zj1Zt2SVfavcs5tdn6bA5RZmOrulFvbt0M7Lo6HWnI9Txcai" 
+                  alt="Ludovick Konyo" 
+                  class="w-full h-full object-cover"
+                />
+              </div>
+              <button 
+                @click.stop="showImageModal = false" 
+                class="absolute -top-4 -right-4 bg-white rounded-full p-2 shadow-lg hover:bg-gray-100 transition-colors"
+              >
+                <Icon name="mdi:close" class="w-6 h-6 text-gray-800" />
+              </button>
+            </div>
+          </div>
+        </div>
+      </transition>
+    </Teleport>
 </template>
+
+
+<script setup>
+const showImageModal = ref(false);
+</script>
+
+<style>
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.3s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+</style>
