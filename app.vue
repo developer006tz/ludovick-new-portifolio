@@ -260,7 +260,9 @@
                 <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-1">
                   <div>
                     <h4 class="font-semibold text-gray-900">Backend Engineer</h4>
-                    <p class="text-blue-600 font-medium text-sm">Gpitg Limited</p>
+                    <p class="text-blue-600 font-medium text-sm">
+                      <a href="https://gpitg.co.tz/" target="_blank" class="hover:underline">Gpitg Limited</a>
+                    </p>
                   </div>
                   <span class="text-sm text-gray-600 bg-blue-50 px-3 py-1 rounded-full font-medium mt-1 md:mt-0">February 2024 - June 2024</span>
                 </div>
@@ -277,7 +279,9 @@
                 <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-1">
                   <div>
                     <h4 class="font-semibold text-gray-900">Software Developer (Contract)</h4>
-                    <p class="text-blue-600 font-medium text-sm">Conveyance Logistics Limited</p>
+                    <p class="text-blue-600 font-medium text-sm">
+                      <a href="https://conveyance.co.tz/" target="_blank" class="hover:underline">Conveyance Logistics Limited</a>
+                    </p>
                   </div>
                   <span class="text-sm text-gray-600 bg-blue-50 px-3 py-1 rounded-full font-medium mt-1 md:mt-0">October 2023 - February 2024</span>
                 </div>
@@ -295,7 +299,9 @@
                 <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-1">
                   <div>
                     <h4 class="font-semibold text-gray-900">Software Developer</h4>
-                    <p class="text-blue-600 font-medium text-sm">Shulesoft Limited</p>
+                    <p class="text-blue-600 font-medium text-sm">
+                      <a href="https://shulesoft.africa/" target="_blank" class="hover:underline">Shulesoft Limited</a>
+                    </p>
                   </div>
                   <span class="text-sm text-gray-600 bg-blue-50 px-3 py-1 rounded-full font-medium mt-1 md:mt-0">November 2022 - October 2023</span>
                 </div>
@@ -326,7 +332,7 @@
               </div>
               
               <div class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow">
-                <h4 class="font-semibold text-blue-700 mb-1">Kapinga Designs Portfolio & CMS</h4>
+                <h4 class="font-semibold text-blue-700 mb-1"><a href="https://kapingadesigns.com/" target="_blank" class="hover:underline">Kapinga Designs Portfolio & CMS</a></h4>
                 <div class="flex items-center space-x-1 mb-2">
                   <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">Next.js</span>
                   <span class="text-xs px-2 py-1 bg-green-100 text-green-700 rounded-full">Nest.js</span>
@@ -335,7 +341,7 @@
               </div>
               
               <div class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow">
-                <h4 class="font-semibold text-blue-700 mb-1">CTMC Mining Consultancy Portal</h4>
+                <h4 class="font-semibold text-blue-700 mb-1"><a href="https://ctmcl.com/" target="_blank" class="hover:underline">CTMC Mining Consultancy Portal</a></h4>
                 <div class="flex items-center space-x-1 mb-2">
                   <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">Next.js</span>
                   <span class="text-xs px-2 py-1 bg-green-100 text-green-700 rounded-full">Express.js</span>
@@ -346,7 +352,7 @@
               
                <!-- Third page - adding page break and spacing  -->
               <div class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow print:mt-0 print:pt-8 print:break-before-page">
-                <h4 class="font-semibold text-blue-700 mb-1">Wecare Health Portal</h4>
+                <h4 class="font-semibold text-blue-700 mb-1"><a href="https://wecare.co.tz/" target="_blank" class="hover:underline">Wecare Health Portal</a></h4>
                 <div class="flex items-center space-x-1 mb-2">
                   <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">Vue.js</span>
                   <span class="text-xs px-2 py-1 bg-red-100 text-red-700 rounded-full">Laravel</span>
@@ -363,7 +369,7 @@
             </h4>
             <div class="grid grid-cols-3 md:grid-cols-3 gap-3 text-sm">
               <div class="bg-gray-50 p-3 rounded-lg border border-gray-100 hover:bg-blue-50 transition-colors">
-                <h5 class="font-medium text-blue-700 mb-1">Social Smarttech Website</h5>
+                <h5 class="font-medium text-blue-700 mb-1"><a href="https://socialsmarttech.com/" target="_blank" class="hover:underline">Social Smarttech Website</a></h5>
                 <span class="text-xs px-2 py-1 bg-indigo-100 text-indigo-700 rounded-full">Nuxt.js</span>
               </div>
               
