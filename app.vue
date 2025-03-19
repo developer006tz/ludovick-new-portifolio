@@ -283,7 +283,8 @@
                 </div>
                 <ul class="list-disc list-outside text-sm text-gray-700 mt-2 space-y-1">
                   <li>Developed shipping portal using Laravel, increasing efficiency by 30%</li>
-                  <li>Created and maintained company website and internal systems</li>
+                  <li>Created and maintained company website and internal systems using modern Technology . (Next Js, Express Js)</li>
+                  <li>Created and maintained self-service online-module for customer to generate Quotes, and Select Containers, Contacts sales</li>
                   <li>Implemented secure authentication and role-based access control</li>
                   <li>Established automated reporting systems reducing manual work by 65%</li>
                 </ul>
@@ -300,7 +301,7 @@
                 </div>
                 <ul class="list-disc list-outside text-sm text-gray-700 mt-2 space-y-1">
                   <li>Contributed to Shulesoft School Management System used by 100+ institutions</li>
-                  <li>Developed Parent Experience Mobile App with 4.7/5 user satisfaction rating</li>
+                  <li>Developed Parent Experience Mobile App with 4.4/5 user satisfaction rating</li>
                   <li>Built Shule Market e-commerce platform for educational resources</li>
                 </ul>
               </div>
