@@ -45,10 +45,10 @@
                 <Icon name="uiw:github" class="text-blue-500 w-5 h-4" />
                 GitHub
               </a>
-              <a href="http://ludovick.site/" class="text-blue-600 hover:text-blue-800 flex items-center print:no-underline bg-white py-1.5 px-3 rounded-md shadow-sm hover:shadow transition-all duration-200 border border-blue-100">
+              <!-- <a href="http://ludovick.site/" class="text-blue-600 hover:text-blue-800 flex items-center print:no-underline bg-white py-1.5 px-3 rounded-md shadow-sm hover:shadow transition-all duration-200 border border-blue-100">
                 <Icon name="iconoir:www" class="text-blue-500 w-5 h-4" />
                 Portfolio
-              </a>
+              </a> -->
             </div>
           </div>
         </header>
