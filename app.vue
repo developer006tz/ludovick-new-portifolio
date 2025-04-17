@@ -2,14 +2,11 @@
 
   <div class="w-full bg-black/90 text-gray-800  font-sans print:max-w-full print:m-0 print:p-0">
     <NuxtRouteAnnouncer />
-      <!-- Print-optimized A4 container with refined padding and layout  -->
       <div class="max-w-5xl mx-auto bg-white shadow-xl print:shadow-none print:max-w-full">
         
-         <!-- Elegant gradient banner with subtle animation  -->
         <div class="h-10 bg-gradient-to-r from-blue-700 via-indigo-600 to-blue-800 print:h-6 relative overflow-hidden">
         </div>
         
-         <!-- Enhanced header with improved visual hierarchy and elegant styling  -->
         <header class="flex flex-col md:flex-row px-8 pt-10 pb-8 relative print:flex-row print:pt-4 print:pb-4 print:px-4 bg-gradient-to-b from-gray-50 to-white">
           <div class="w-36 h-36 overflow-hidden rounded-full border-4 border-white shadow-lg mr-6 mb-4 md:mb-0 flex-shrink-0 absolute md:relative top-0 md:top-auto transform -translate-y-1/2 md:transform-none md:translate-y-0 left-8 md:left-auto bg-white print:w-28 print:h-28 print:relative print:transform-none print:translate-y-0 print:left-auto print:shadow-none print:border-2 ring-4 ring-blue-100 ring-opacity-50">
             <img 
@@ -55,7 +52,6 @@
         </header>
         
         <div class="px-8">
-           <!-- Professional Summary with improved typography and spacing  -->
           <section class="mb-6 mt-4">
             <h3 class="text-lg font-bold text-blue-800 mb-3 pb-1 border-b-2 border-blue-100 flex items-center">
               <Icon name="mingcute:profile-fill" class="text-blue-600 w-5 h-5 mr-2" />
@@ -69,7 +65,6 @@
             </p>
           </section>
           
-           <!-- Skills with modern grid layout and visual enhancements  -->
           <section class="mb-6">
             <h3 class="text-lg font-bold text-blue-800 mb-3 pb-1 border-b-2 border-blue-100 flex items-center">
               <Icon name="ic:baseline-star" class="text-blue-600 w-6 h-6 mr-2" />
@@ -245,7 +240,7 @@
                     <h4 class="font-semibold text-gray-900">Senior Software Engineer</h4>
                     <p class="text-blue-600 font-medium text-sm">Ona Africa Limited</p>
                   </div>
-                  <span class="text-sm text-gray-600 bg-blue-50 px-3 py-1 rounded-full font-medium mt-1 md:mt-0">June 2024 - Present</span>
+                  <span class="text-sm text-gray-600 bg-blue-50 px-3 py-1 rounded-full font-medium mt-1 md:mt-0">May 2024 - Present</span>
                 </div>
                 <ul class="list-disc list-outside text-sm text-gray-700 mt-2 space-y-1">
                   <li>Architected and developed Sasa Social Network, implementing real-time features</li>
@@ -260,12 +255,12 @@
                 <div class="absolute w-4 h-4 bg-blue-600 rounded-full -left-8 top-1"></div>
                 <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-1">
                   <div>
-                    <h4 class="font-semibold text-gray-900">Backend Engineer</h4>
+                    <h4 class="font-semibold text-gray-900">Software Engineer</h4>
                     <p class="text-blue-600 font-medium text-sm">
                       <a href="https://gpitg.co.tz/" target="_blank" class="hover:underline">Gpitg Limited</a>
                     </p>
                   </div>
-                  <span class="text-sm text-gray-600 bg-blue-50 px-3 py-1 rounded-full font-medium mt-1 md:mt-0">February 2024 - June 2024</span>
+                  <span class="text-sm text-gray-600 bg-blue-50 px-3 py-1 rounded-full font-medium mt-1 md:mt-0">January 2024 - June 2024</span>
                 </div>
                 <ul class="list-disc list-outside text-sm text-gray-700 mt-2 space-y-1">
                   <li>Developed Afya EHMS, a comprehensive health management system</li>
@@ -284,7 +279,7 @@
                       <a href="https://conveyance.co.tz/" target="_blank" class="hover:underline">Conveyance Logistics Limited</a>
                     </p>
                   </div>
-                  <span class="text-sm text-gray-600 bg-blue-50 px-3 py-1 rounded-full font-medium mt-1 md:mt-0">October 2023 - February 2024</span>
+                  <span class="text-sm text-gray-600 bg-blue-50 px-3 py-1 rounded-full font-medium mt-1 md:mt-0">October 2023 - January 2024</span>
                 </div>
                 <ul class="list-disc list-outside text-sm text-gray-700 mt-2 space-y-1">
                   <li>Developed shipping portal using Laravel, increasing efficiency by 30%</li>
