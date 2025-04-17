@@ -416,7 +416,7 @@
 
             <div class="bg-gray-50 p-3 rounded-lg border border-gray-100 hover:bg-blue-50 transition-colors">
               <h5 class="font-medium text-blue-700 mb-1">Personal Portfolio</h5>
-              <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">Next.js</span>
+              <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">Vue Js</span>
             </div>
 
             <div class="bg-gray-50 p-3 rounded-lg border border-gray-100 hover:bg-blue-50 transition-colors">
