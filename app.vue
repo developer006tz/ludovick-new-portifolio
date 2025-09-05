@@ -62,14 +62,14 @@
             PROFESSIONAL SUMMARY
           </h3>
           <p class="text-sm leading-relaxed">
-            Versatile Full Stack Software Engineer with 3+ years of experience developing robust web and mobile
-            applications across diverse technology stacks.
-            Demonstrated expertise in both frontend and backend development with a proven track record of delivering
-            scalable, user-centric solutions.
-            Combines strong technical acumen with creative design capabilities to produce comprehensive digital
-            products.
-            Known for rapid adaptability to new technologies and exceptional problem-solving abilities.
-          </p>
+            Technology Manager with 4+ years of progressive software engineering experience, now leading cross-functional
+             teams and driving technology strategy in agile environments. Proven track record of scaling development
+              operations from individual contributor to managing full-stack engineering teams. Expert in modern
+               development practices including CI/CD pipelines, sprint planning, and iterative delivery.
+                Successfully delivered scalable web and mobile applications while implementing agile methodologies that improved team velocity and delivery timelines.
+                 Combines hands-on technical expertise across multiple technology stacks with strategic technology leadership.
+                  Known for bridging business requirements with technical solutions and fostering high-performing engineering cultures.          
+                </p>
         </section>
 
         <section class="mb-6">
@@ -243,22 +243,20 @@
               <div class="absolute w-4 h-4 bg-blue-600 rounded-full -left-8 top-1"></div>
               <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-1">
                 <div>
-                  <h4 class="font-semibold text-gray-900">Technical Lead</h4>
+                  <h4 class="font-semibold text-gray-900">Technology Manager</h4>
                   <p class="text-blue-600 font-medium text-sm">Evmak Tanzania</p>
                 </div>
                 <span class="text-sm text-gray-600 bg-blue-50 px-3 py-1 rounded-full font-medium mt-1 md:mt-0">April
                   2025 - Present</span>
               </div>
               <ul class="list-disc list-outside text-sm text-gray-700 mt-2 space-y-1">
-                <li>Lead and mentor a team of software engineers, fostering a collaborative and high-performing
-                  environment.</li>
-                <li>Architect and design scalable, robust, and maintainable software solutions aligned with business
-                  goals.</li>
-                <li>Oversee the full software development lifecycle, including planning, development, testing, and
-                  deployment.</li>
-                <li>Ensure adherence to code quality standards, best practices, and efficient development processes.
-                </li>
-              </ul>
+  <li>Lead and mentor cross-functional engineering teams of developers, implementing agile methodologies to improve delivery velocity and team performance.</li>
+  <li>Drive technology strategy and roadmap planning, aligning technical initiatives with business objectives and organizational goals.</li>
+  <li>Oversee the complete software development lifecycle from requirements gathering through deployment, ensuring quality deliverables and timely project completion.</li>
+  <li>Establish and enforce coding standards, development best practices, and CI/CD processes across multiple technology stacks.</li>
+  <li>Manage technology budgets, vendor relationships, and infrastructure decisions to optimize development operations and cost efficiency.</li>
+  <li>Collaborate with stakeholders to translate business requirements into technical specifications and project timelines.</li>
+</ul>
             </div>
 
             <div class="mb-6 relative">
@@ -269,10 +267,10 @@
                   <p class="text-blue-600 font-medium text-sm">Ona Africa Limited</p>
                 </div>
                 <span class="text-sm text-gray-600 bg-blue-50 px-3 py-1 rounded-full font-medium mt-1 md:mt-0">May 2024
-                  - Present</span>
+                  - April 2025</span>
               </div>
               <ul class="list-disc list-outside text-sm text-gray-700 mt-2 space-y-1">
-                <li>Architected and developed Sasa Social Network, implementing real-time features.</li>
+                <li>Architected and developed Ona Sasa Social Network, implementing real-time features.</li>
                 <li>Designed and implemented scalable backend services and APIs for core product features.</li>
                 <li>Mentored junior engineers, providing technical guidance and conducting code reviews.</li>
                 <li>Collaborated with cross-functional teams to define technical specifications and project roadmaps.
@@ -305,23 +303,21 @@
               <div class="absolute w-4 h-4 bg-blue-600 rounded-full -left-8 top-1"></div>
               <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-1">
                 <div>
-                  <h4 class="font-semibold text-gray-900">Software Developer (Contract)</h4>
+                  <h4 class="font-semibold text-gray-900">Software Engineer | <span class="text-gray-500">Part-time</span></h4>
                   <p class="text-blue-600 font-medium text-sm">
                     <a href="https://conveyance.co.tz/" target="_blank" class="hover:underline">Conveyance Logistics
                       Limited</a>
                   </p>
                 </div>
                 <span class="text-sm text-gray-600 bg-blue-50 px-3 py-1 rounded-full font-medium mt-1 md:mt-0">October
-                  2023 - January 2024</span>
+                  2023 - Current</span>
               </div>
               <ul class="list-disc list-outside text-sm text-gray-700 mt-2 space-y-1">
-                <li>Developed shipping portal using Laravel, increasing efficiency by 30%</li>
-                <li>Created and maintained company website and internal systems using modern Technology . (Next Js,
-                  Express Js)</li>
-                <li>Created and maintained self-service online-module for customer to generate Quotes, and Select
-                  Containers, Contacts sales</li>
-                <li>Implemented secure authentication and role-based access control</li>
-                <li>Established automated reporting systems reducing manual work by 65%</li>
+                <li>Developed internal Logistics Management System, and Hr Management System for seamless operations</li>
+                <li>Architect, designed and implemented scalable backend services and APIs for core product features.</li>
+                <li>Developed and maintained self-service online platform that connect their products with online marketplaces that enable customer to generate quotes, and select products directly.</li>
+                <li>Advised on best practices for software development and project management, implemente security measures to protect sensitive data.</li>
+                <li>Transform company operations from paper-based to digital, improving efficiency by 70%</li>
               </ul>
             </div>
 
@@ -338,9 +334,10 @@
                   2022 - October 2023</span>
               </div>
               <ul class="list-disc list-outside text-sm text-gray-700 mt-2 space-y-1">
-                <li>Contributed to Shulesoft School Management System used by 100+ institutions</li>
-                <li>Developed Parent Experience Mobile App with 4.4/5 user satisfaction rating</li>
-                <li>Built Shule Market e-commerce platform for educational resources</li>
+                <li>Contributed in Development of Shulesoft School Management System , among the largest School Management Systems in Tanzania</li>
+                <li>Translate customer requirements to technical specifications and implement them</li>
+                <li>Bug fixes and performance improvements</li>
+                <li>Documented system architecture and components for future maintenance</li>
               </ul>
             </div>
           </div>
@@ -539,7 +536,7 @@
         </div>
 
         <div class="text-sm text-gray-600 mt-6 md:mb-0">
-          <p class="font-medium">Last updated: March 2025</p>
+          <p class="font-medium">Last updated: July 2025</p>
         </div>
       </footer>
     </div>
