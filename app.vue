@@ -23,7 +23,7 @@
           <div class="grid grid-cols-1 md:grid-cols-3 gap-3 text-sm mb-3 print:grid-cols-3 print:gap-1 print:text-xs">
             <div class="flex items-center bg-blue-50 rounded-full px-3 py-1.5 shadow-sm">
               <Icon name="ic:twotone-mark-email-unread" class="text-blue-500 w-6 h-6" />
-              <span class="text-gray-700 font-medium">developer@ludovick.site</span>
+              <span class="text-gray-700 font-medium">developer.ludovic@gmail.com</span>
             </div>
             <div class="flex items-center bg-blue-50 rounded-full px-3 py-1.5 shadow-sm">
               <Icon name="ic:baseline-whatsapp" class="text-blue-500 w-5 h-5" />
