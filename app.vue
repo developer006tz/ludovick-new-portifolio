@@ -352,23 +352,22 @@
 
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm mb-4">
             <div class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow">
-              <h4 class="font-semibold text-blue-700 mb-1">Way Implex Shipping Portal</h4>
+              <h4 class="font-semibold text-blue-700 mb-1">Nuvia Business Tool</h4>
               <div class="flex items-center mb-2">
-                <span class="text-xs px-2 py-1 bg-red-100 text-red-700 rounded-full">Laravel</span>
-                <span class="text-xs px-2 py-1 bg-sky-100 text-sky-700 rounded-full">Postgresql</span>
+                <span class="text-xs px-2 py-1 bg-red-100 text-red-700 rounded-full">Mobile App</span>
+                <span class="text-xs px-2 py-1 bg-sky-100 text-sky-700 rounded-full">Web App</span>
               </div>
-              <p class="text-gray-700 text-sm">Comprehensive shipping management system with secure authentication,
-                tracking, and reporting features</p>
+              <p class="text-gray-700 text-sm">Comprehensive business tool for Business of all sizes. focuses on transforming the way businesses operate with easy payment intergration, online store and easy invoice cretion.</p>
             </div>
 
             <div class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow">
               <h4 class="font-semibold text-blue-700 mb-1"><a href="https://kapingadesigns.com/" target="_blank"
-                  class="hover:underline">Kapinga Designs Portfolio & CMS</a></h4>
+                  class="hover:underline">Sadaka App</a></h4>
               <div class="flex items-center space-x-1 mb-2">
-                <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">Next.js</span>
-                <span class="text-xs px-2 py-1 bg-green-100 text-green-700 rounded-full">Nest.js</span>
+                <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">Mobile App</span>
+                <span class="text-xs px-2 py-1 bg-green-100 text-green-700 rounded-full">Web App</span>
               </div>
-              <p class="text-gray-700 text-sm">Modern portfolio with custom CMS, admin dashboard and analytics</p>
+              <p class="text-gray-700 text-sm">Mobile and web application for sadaka organization, focusing on transforming the way sadaka operates with easy payment intergration, online store and easy invoice cretion.</p>
             </div>
 
             <div class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow">
