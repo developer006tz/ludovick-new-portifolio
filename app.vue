@@ -367,19 +367,16 @@
                 <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">Mobile App</span>
                 <span class="text-xs px-2 py-1 bg-green-100 text-green-700 rounded-full">Web App</span>
               </div>
-              <p class="text-gray-700 text-sm">Mobile and web application for sadaka organization, focusing on transforming the way sadaka operates with easy payment intergration, online store and easy invoice cretion.</p>
+              <p class="text-gray-700 text-sm">A church-based platform that revolutionizes the way church communities and organizations collect their tithes and offerings.</p>
             </div>
 
             <div class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow">
               <h4 class="font-semibold text-blue-700 mb-1"><a href="https://ctmcl.com/" target="_blank"
-                  class="hover:underline">CTMC Mining Consultancy Portal</a></h4>
+                  class="hover:underline">Shulesoft School Management System</a></h4>
               <div class="flex items-center space-x-1 mb-2">
-                <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">Next.js</span>
-                <span class="text-xs px-2 py-1 bg-green-100 text-green-700 rounded-full">Express.js</span>
-                <span class="text-xs px-2 py-1 bg-yellow-100 text-yellow-700 rounded-full">Mysql</span>
+                <span class="text-xs px-2 py-1 bg-yellow-100 text-yellow-700 rounded-full">Web App</span>
               </div>
-              <p class="text-gray-700 text-sm">Comprehensive platform for mining consultancy services in Tanzania and
-                DRC with regulatory compliance tools, appointment scheduling, and resource management</p>
+              <p class="text-gray-700 text-sm">Comprehensive school management system for schools in Africa. It brings efficiency in school management and communication among students, teachers and parents.</p>
             </div>
 
             <!-- Third page - adding page break and spacing  -->
@@ -397,32 +394,32 @@
                 patient management, wound care tracking, and home-based recovery support with doctor-directed care
                 protocols</p>
             </div>
-          </div>
 
-          <h4 class="font-semibold text-blue-700 mb-3 flex items-center">
-            <Icon name="ix:project-arrow-left" class="text-blue-600 w-5 h-5 mr-2" />
-            Personal Projects
-          </h4>
-          <div class="grid grid-cols-3 md:grid-cols-3 gap-3 text-sm">
-            <div class="bg-gray-50 p-3 rounded-lg border border-gray-100 hover:bg-blue-50 transition-colors">
-              <h5 class="font-medium text-blue-700 mb-1"><a href="https://socialsmarttech.com/" target="_blank"
-                  class="hover:underline">Social Smarttech Website</a></h5>
-              <span class="text-xs px-2 py-1 bg-indigo-100 text-indigo-700 rounded-full">Nuxt.js</span>
-            </div>
-
-            <div class="bg-gray-50 p-3 rounded-lg border border-gray-100 hover:bg-blue-50 transition-colors">
-              <h5 class="font-medium text-blue-700 mb-1">Personal Portfolio</h5>
-              <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">Vue Js</span>
-            </div>
-
-            <div class="bg-gray-50 p-3 rounded-lg border border-gray-100 hover:bg-blue-50 transition-colors">
-              <h5 class="font-medium text-blue-700 mb-1">Logistics Management</h5>
-              <div class="flex items-center space-x-1">
-                <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">React.js</span>
-                <span class="text-xs px-2 py-1 bg-green-100 text-green-700 rounded-full">Spring Boot</span>
+            <div
+              class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow print:mt-0 print:pt-8 print:break-before-page">
+              <h4 class="font-semibold text-blue-700 mb-1"><a href="https://wecare.co.tz/" target="_blank"
+                  class="hover:underline">Logistics Management System</a></h4>
+              <div class="flex items-center space-x-1 mb-2">
+                <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">Web App</span>
               </div>
+              <p class="text-gray-700 text-sm">Professional logistics management system for businesses, featuring powerfull accounting features, order management, inventory tracking, delivery tracking and reporting.</p>
+            </div>
+
+            <div
+              class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow print:mt-0 print:pt-8 print:break-before-page">
+              <h4 class="font-semibold text-blue-700 mb-1"><a href="https://wecare.co.tz/" target="_blank"
+                  class="hover:underline">Onasasa Social Network</a></h4>
+              <div class="flex items-center space-x-1 mb-2">
+                <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">Mobile App</span>
+                <span class="text-xs px-2 py-1 bg-red-100 text-red-700 rounded-full">Web App</span>
+              </div>
+              <p class="text-gray-700 text-sm">
+                Social network platform for Young Africans. with aim for connecting young Africans all over the world. It features Wallet feature for its users to earn money trough it.
+              </p>
             </div>
           </div>
+
+         
         </section>
 
         <!-- Education & Additional Info with improved styling  -->
