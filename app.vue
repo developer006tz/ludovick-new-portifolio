@@ -475,26 +475,26 @@
             <div
               class="bg-gradient-to-r from-blue-50 to-indigo-50 p-4 rounded-lg border border-blue-100 shadow-sm transition-all hover:shadow print:p-3 print:bg-white print:shadow-none">
               <div class="flex justify-between items-center mb-2">
-                <h4 class="font-semibold text-indigo-800 print:text-sm">English</h4>
-                <span class="text-xs px-2 py-1 bg-indigo-100 text-indigo-700 rounded-full">Professional</span>
+                <h4 class="font-semibold text-indigo-800 print:text-sm print:text-white">English</h4>
+                <span class="text-xs px-2 py-1 bg-indigo-100 text-indigo-700 rounded-full print:bg-gray-200 print:text-black">Professional</span>
               </div>
               <div class="w-full bg-gray-200 rounded-full h-2.5">
                 <div class="bg-gradient-to-r from-blue-600 to-indigo-600 h-2.5 rounded-full w-4/5"></div>
               </div>
-              <p class="text-sm text-gray-600 mt-2 print:text-xs">Business communication, technical documentation, and professional
+              <p class="text-sm text-gray-600 mt-2 print:text-xs print:text-white">Business communication, technical documentation, and professional
                 presentations</p>
             </div>
 
             <div
               class="bg-gradient-to-r from-green-50 to-emerald-50 p-4 rounded-lg border border-green-100 shadow-sm transition-all hover:shadow print:p-3 print:bg-white print:shadow-none">
               <div class="flex justify-between items-center mb-2">
-                <h4 class="font-semibold text-emerald-800 print:text-sm">Swahili</h4>
-                <span class="text-xs px-2 py-1 bg-emerald-100 text-emerald-700 rounded-full">Native</span>
+                <h4 class="font-semibold text-emerald-800 print:text-sm print:text-white">Swahili</h4>
+                <span class="text-xs px-2 py-1 bg-emerald-100 text-emerald-700 rounded-full print:bg-gray-200 print:text-black">Native</span>
               </div>
               <div class="w-full bg-gray-200 rounded-full h-2.5">
                 <div class="bg-gradient-to-r from-green-600 to-emerald-600 h-2.5 rounded-full w-full"></div>
               </div>
-              <p class="text-sm text-gray-600 mt-2 print:text-xs">Complete fluency with cultural nuances, idioms, and professional
+              <p class="text-sm text-gray-600 mt-2 print:text-xs print:text-white">Complete fluency with cultural nuances, idioms, and professional
                 terminology</p>
             </div>
           </div>
@@ -620,6 +620,21 @@ const showImageModal = ref(false);
   /* Make sure all text is visible */
   .text-red-700, .text-sky-700, .text-blue-700, .text-green-700, .text-yellow-700, .text-indigo-700, .text-purple-700 {
     color: #374151 !important;
+  }
+  
+  /* Fix language section colors for print */
+  .text-indigo-800, .text-emerald-800, .text-indigo-700, .text-emerald-700 {
+    color: #000000 !important;
+  }
+  
+  .bg-indigo-100, .bg-emerald-100 {
+    background-color: #e5e7eb !important;
+    border: 1px solid #d1d5db !important;
+  }
+  
+  /* Progress bars for print */
+  .bg-gradient-to-r.from-blue-600, .bg-gradient-to-r.from-green-600 {
+    background: #374151 !important;
   }
   
   /* Ensure project section is visible */
