@@ -432,38 +432,23 @@
           </div>
         </section>
 
-        <!-- Languages section with elegant styling -->
+        <!-- Languages section -->
         <section class="mb-6 print:mb-4">
           <h3 class="text-lg font-bold text-blue-800 mb-3 pb-1 border-b-2 border-blue-100 flex items-center print:text-base print:mb-2">
             <Icon name="fa6-solid:language" class="text-blue-600 w-5 h-5 mr-2" />
             LANGUAGES
           </h3>
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 print:grid-cols-2 print:gap-3">
-            <div
-              class="bg-gradient-to-r from-blue-50 to-indigo-50 p-4 rounded-lg border border-blue-100 shadow-sm transition-all hover:shadow print:p-3 print:bg-white print:shadow-none">
-              <div class="flex justify-between items-center mb-2">
-                <h4 class="font-semibold text-indigo-800 print:text-sm print:text-white">English</h4>
-                <span class="text-xs px-2 py-1 bg-indigo-100 text-indigo-700 rounded-full print:bg-gray-200 print:text-black">Professional</span>
-              </div>
-              <div class="w-full bg-gray-200 rounded-full h-2.5">
-                <div class="bg-gradient-to-r from-blue-600 to-indigo-600 h-2.5 rounded-full w-4/5"></div>
-              </div>
-              <p class="text-sm text-gray-600 mt-2 print:text-xs print:text-white">Business communication, technical documentation, and professional
-                presentations</p>
-            </div>
-
-            <div
-              class="bg-gradient-to-r from-green-50 to-emerald-50 p-4 rounded-lg border border-green-100 shadow-sm transition-all hover:shadow print:p-3 print:bg-white print:shadow-none">
-              <div class="flex justify-between items-center mb-2">
-                <h4 class="font-semibold text-emerald-800 print:text-sm print:text-white">Swahili</h4>
-                <span class="text-xs px-2 py-1 bg-emerald-100 text-emerald-700 rounded-full print:bg-gray-200 print:text-black">Native</span>
-              </div>
-              <div class="w-full bg-gray-200 rounded-full h-2.5">
-                <div class="bg-gradient-to-r from-green-600 to-emerald-600 h-2.5 rounded-full w-full"></div>
-              </div>
-              <p class="text-sm text-gray-600 mt-2 print:text-xs print:text-white">Complete fluency with cultural nuances, idioms, and professional
-                terminology</p>
-            </div>
+          <div class="bg-gray-50 p-4 rounded-lg border border-gray-100 print:p-3 print:bg-white">
+            <ul class="space-y-2 text-sm">
+              <li class="flex items-center">
+                <Icon name="mdi:circle-medium" class="text-blue-600 w-4 h-4 mr-2" />
+                <span><strong>English</strong> - Professional</span>
+              </li>
+              <li class="flex items-center">
+                <Icon name="mdi:circle-medium" class="text-blue-600 w-4 h-4 mr-2" />
+                <span><strong>Swahili</strong> - Native</span>
+              </li>
+            </ul>
           </div>
         </section>
       </div>
