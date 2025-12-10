@@ -18,7 +18,7 @@
           <h1
             class="text-3xl font-bold text-gray-900 tracking-tight print:text-xl bg-clip-text text-transparent bg-gradient-to-r from-blue-800 to-indigo-700 mb-1 print:mb-0.5">
             LUDOVICK KONYO</h1>
-          <h2 class="text-xl font-semibold mb-3 print:text-base print:mb-1.5 text-blue-600 tracking-wide">Software Developer
+          <h2 class="text-xl font-semibold mb-3 print:text-base print:mb-1.5 text-blue-600 tracking-wide">Software Architect
           </h2>
           <div class="grid grid-cols-1 md:grid-cols-3 gap-3 text-sm mb-3 print:grid-cols-3 print:gap-1 print:text-xs print:mb-2">
             <div class="flex items-center bg-blue-50 rounded-full px-3 py-1.5 shadow-sm">
