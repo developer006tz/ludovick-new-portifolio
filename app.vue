@@ -124,29 +124,37 @@
                     Backend Development
                   </h4>
                   <div class="flex flex-wrap gap-2">
+                    <span class="px-2 py-1 bg-blue-100  text-green-800 rounded text-xs flex items-center">
+                      <Icon name="logos:spring-icon" class="w-3 h-3 mr-1" />
+                      Java (Spring Boot)
+                    </span>
                     <span class="px-2 py-1 bg-blue-100 text-green-800 rounded text-xs flex items-center">
                       <Icon name="logos:nodejs-icon" class="w-3 h-3 mr-1" />
                       Node.js
-                    </span>
-                    <span class="px-2 py-1 bg-blue-100 text-green-800 rounded text-xs flex items-center">
-                      <Icon name="simple-icons:express" class="w-3 h-3 mr-1" />
-                      Express.js
                     </span>
                     <span class="px-2 py-1 bg-blue-100 text-green-800 rounded text-xs flex items-center">
                       <Icon name="logos:nestjs" class="w-3 h-3 mr-1" />
                       Nest.js
                     </span>
                     <span class="px-2 py-1 bg-blue-100 text-green-800 rounded text-xs flex items-center">
+                      <Icon name="simple-icons:express" class="w-3 h-3 mr-1" />
+                      Express.js
+                    </span>
+                    <span class="px-2 py-1 bg-blue-100 text-green-800 rounded text-xs flex items-center">
                       <Icon name="logos:laravel" class="w-3 h-3 mr-1" />
                       PHP (Laravel)
                     </span>
                     <span class="px-2 py-1 bg-blue-100  text-green-800 rounded text-xs flex items-center">
-                      <Icon name="logos:spring-icon" class="w-3 h-3 mr-1" />
-                      Java (Spring Boot)
+                      <Icon name="carbon:api" class="w-3 h-3 mr-1" />
+                      RESTful API
                     </span>
                     <span class="px-2 py-1 bg-blue-100  text-green-800 rounded text-xs flex items-center">
-                      <Icon name="carbon:api" class="w-3 h-3 mr-1" />
-                      RESTful API Design
+                      <Icon name="mdi:xml" class="w-3 h-3 mr-1" />
+                      SOAP
+                    </span>
+                    <span class="px-2 py-1 bg-blue-100  text-green-800 rounded text-xs flex items-center">
+                      <Icon name="logos:graphql" class="w-3 h-3 mr-1" />
+                      GraphQL
                     </span>
                   </div>
                 </div>
@@ -491,7 +499,7 @@
         </div>
 
         <div class="text-sm text-gray-600 mt-6 md:mb-0 print:mt-4">
-          <p class="font-medium print:text-xs">Last updated: July 2025</p>
+          <p class="font-medium print:text-xs">Last updated: December 2025</p>
         </div>
       </footer>
     </div>
