@@ -343,83 +343,30 @@
           </div>
         </section>
 
-        <!-- Projects Section with card design  -->
+        <!-- Training & Certificates Section -->
         <section class="mb-6 print:mb-4">
           <h3 class="text-lg font-bold text-blue-800 mb-3 pb-1 border-b-2 border-blue-100 flex items-center print:text-base print:mb-2">
-            <Icon name="cil:featured-playlist" class="text-blue-600 w-5 h-5 mr-2" />
-            FEATURED PROJECTS
+            <Icon name="carbon:certificate" class="text-blue-600 w-5 h-5 mr-2" />
+            TRAINING & CERTIFICATIONS
           </h3>
 
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm mb-4 print:gap-3 print:text-xs print:mb-3">
-            <div class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow print:p-3 print:shadow-none">
-              <h4 class="font-semibold text-blue-700 mb-1 print:text-sm">Nuvia Business Tool</h4>
+          <div class="space-y-4 print:space-y-3">
+            <!-- Third page - adding page break for this section -->
+            <div class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow print:p-3 print:shadow-none print:mt-0 print:pt-6 print:break-before-page">
+              <div class="flex items-start justify-between mb-2">
+                <div class="flex-1">
+                  <h4 class="font-semibold text-blue-700 mb-1 print:text-sm">Artificial Intelligence in Financial Services</h4>
+                  <p class="text-sm text-gray-600 print:text-xs">Bank of Tanzania Academy</p>
+                </div>
+                <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full whitespace-nowrap ml-2 print:px-1.5 print:py-0.5">October 2025</span>
+              </div>
               <div class="flex items-center mb-2">
-                <span class="text-xs px-2 py-1 bg-red-100 text-red-700 rounded-full print:px-1.5 print:py-0.5">Mobile App</span>
-                <span class="text-xs px-2 py-1 bg-sky-100 text-sky-700 rounded-full print:px-1.5 print:py-0.5">Web App</span>
+                <Icon name="mdi:map-marker" class="text-gray-500 w-4 h-4 mr-1" />
+                <span class="text-xs text-gray-600">Bank of Tanzania Sub-Head Office, Dar es Salaam</span>
               </div>
-              <p class="text-gray-700 text-sm print:text-xs">Comprehensive business tool for Business of all sizes. focuses on transforming the way businesses operate with easy payment intergration, online store and easy invoice cretion.</p>
-            </div>
-
-            <div class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow print:p-3 print:shadow-none">
-              <h4 class="font-semibold text-blue-700 mb-1 print:text-sm"><a href="https://kapingadesigns.com/" target="_blank"
-                  class="hover:underline">Sadaka App</a></h4>
-              <div class="flex items-center space-x-1 mb-2 print:space-x-0.5">
-                <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full print:px-1.5 print:py-0.5">Mobile App</span>
-                <span class="text-xs px-2 py-1 bg-green-100 text-green-700 rounded-full print:px-1.5 print:py-0.5">Web App</span>
-              </div>
-              <p class="text-gray-700 text-sm print:text-xs">A church-based platform that revolutionizes the way church communities and organizations collect their tithes and offerings.</p>
-            </div>
-
-            <div class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow print:p-3 print:shadow-none">
-              <h4 class="font-semibold text-blue-700 mb-1 print:text-sm"><a href="https://ctmcl.com/" target="_blank"
-                  class="hover:underline">Shulesoft School Management System</a></h4>
-              <div class="flex items-center space-x-1 mb-2 print:space-x-0.5">
-                <span class="text-xs px-2 py-1 bg-yellow-100 text-yellow-700 rounded-full">Web App</span>
-              </div>
-              <p class="text-gray-700 text-sm print:text-xs">Comprehensive school management system for schools in Africa. It brings efficiency in school management and communication among students, teachers and parents.</p>
-            </div>
-
-            <!-- Third page - adding page break and spacing  -->
-            <div
-              class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow print:p-3 print:shadow-none print:mt-0 print:pt-6 print:break-before-page">
-              <h4 class="font-semibold text-blue-700 mb-1 print:text-sm"><a href="https://wecare.co.tz/" target="_blank"
-                  class="hover:underline">Wecare Health Portal</a></h4>
-              <div class="flex items-center space-x-1 mb-2 print:space-x-0.5">
-                <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full print:px-1.5 print:py-0.5">Vue.js</span>
-                <span class="text-xs px-2 py-1 bg-red-100 text-red-700 rounded-full print:px-1.5 print:py-0.5">Laravel</span>
-                <span class="text-xs px-2 py-1 bg-indigo-100 text-indigo-700 rounded-full print:px-1.5 print:py-0.5">Nuxt.js</span>
-                <span class="text-xs px-2 py-1 bg-sky-100 text-sky-700 rounded-full print:px-1.5 print:py-0.5">Postgresql</span>
-              </div>
-              <p class="text-gray-700 text-sm print:text-xs">Professional healthcare platform for nursing home services, featuring
-                patient management, wound care tracking, and home-based recovery support with doctor-directed care
-                protocols</p>
-            </div>
-
-            <div
-              class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow print:p-3 print:shadow-none print:mt-0 print:pt-2">
-              <h4 class="font-semibold text-blue-700 mb-1 print:text-sm"><a href="https://wecare.co.tz/" target="_blank"
-                  class="hover:underline">Logistics Management System</a></h4>
-              <div class="flex items-center space-x-1 mb-2 print:space-x-0.5">
-                <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full">Web App</span>
-              </div>
-              <p class="text-gray-700 text-sm print:text-xs">Professional logistics management system for businesses, featuring powerfull accounting features, order management, inventory tracking, delivery tracking and reporting.</p>
-            </div>
-
-            <div
-              class="bg-white border border-blue-100 rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow print:p-3 print:shadow-none print:mt-0 print:pt-2">
-              <h4 class="font-semibold text-blue-700 mb-1 print:text-sm"><a href="https://wecare.co.tz/" target="_blank"
-                  class="hover:underline">Onasasa Social Network</a></h4>
-              <div class="flex items-center space-x-1 mb-2 print:space-x-0.5">
-                <span class="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded-full print:px-1.5 print:py-0.5">Mobile App</span>
-                <span class="text-xs px-2 py-1 bg-red-100 text-red-700 rounded-full print:px-1.5 print:py-0.5">Web App</span>
-              </div>
-              <p class="text-gray-700 text-sm print:text-xs">
-                Social network platform for Young Africans. with aim for connecting young Africans all over the world. It features Wallet feature for its users to earn money trough it.
-              </p>
+              <p class="text-gray-700 text-sm print:text-xs">Completed comprehensive training on the application of artificial intelligence technologies in financial services, covering AI implementation, regulatory considerations, and practical use cases in the banking sector.</p>
             </div>
           </div>
-
-         
         </section>
 
         <!-- Education & Additional Info with improved styling  -->
