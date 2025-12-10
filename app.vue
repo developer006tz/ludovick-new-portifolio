@@ -11,7 +11,7 @@
         class="flex flex-col md:flex-row px-8 pt-10 pb-8 relative print:flex-row print:pt-3 print:pb-3 print:px-6 bg-gradient-to-b from-gray-50 to-white print:bg-white">
         <div
           class="w-36 h-36 overflow-hidden rounded-full border-4 border-white shadow-lg mr-6 mb-4 md:mb-0 flex-shrink-0 absolute md:relative top-0 md:top-auto transform -translate-y-1/2 md:transform-none md:translate-y-0 left-8 md:left-auto bg-white print:w-24 print:h-24 print:relative print:transform-none print:translate-y-0 print:left-auto print:shadow-none print:border-2 print:mr-4 ring-4 ring-blue-100 ring-opacity-50 print:ring-0">
-          <img src="https://bku0cm0nci.ufs.sh/f/Zj1Zt2SVfavcs5tdn6bA5RZmOrulFvbt0M7Lo6HWnI9Txcai" alt="Ludovick Konyo"
+          <img src="/ludovick-konyo.png" alt="Ludovick Konyo"
             class="w-full h-full object-cover cursor-pointer" @click="showImageModal = true" />
         </div>
         <div class="flex-grow text-center md:text-left md:pl-6 mt-12 md:mt-0 print:text-left print:pl-4 print:mt-0">
@@ -495,7 +495,7 @@
           <div class="relative">
             <div
               class="rounded-full overflow-hidden border-8 border-white/20 shadow-2xl w-64 h-64 sm:w-80 sm:h-80 mx-auto">
-              <img src="https://bku0cm0nci.ufs.sh/f/Zj1Zt2SVfavcs5tdn6bA5RZmOrulFvbt0M7Lo6HWnI9Txcai"
+              <img src="/ludovick-konyo.png"
                 alt="Ludovick Konyo" class="w-full h-full object-cover" />
             </div>
             <button @click.stop="showImageModal = false"
