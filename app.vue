@@ -315,7 +315,7 @@
               <div class="absolute w-4 h-4 bg-blue-600 rounded-full -left-8 top-1"></div>
               <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-1">
                 <div>
-                  <h4 class="font-semibold text-gray-900 print:text-sm">Software Engineer | <span class="text-gray-500">Part-time</span></h4>
+                  <h4 class="font-semibold text-gray-900 print:text-sm">Seasonal Software Engineer</h4>
                   <p class="text-blue-600 font-medium text-sm print:text-xs">
                     <a href="https://conveyance.co.tz/" target="_blank" class="hover:underline">Conveyance Logistics
                       Limited</a>
