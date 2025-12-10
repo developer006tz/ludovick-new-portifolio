@@ -362,7 +362,7 @@
               </div>
               <div class="flex items-center mb-2">
                 <Icon name="mdi:map-marker" class="text-gray-500 w-4 h-4 mr-1" />
-                <span class="text-xs text-gray-600">Bank of Tanzania Sub-Head Office, Dar es Salaam</span>
+                <span class="text-xs text-gray-600">Bank of Tanzania, Dar es Salaam</span>
               </div>
               <p class="text-gray-700 text-sm print:text-xs">Completed comprehensive training on the application of artificial intelligence technologies in financial services, covering AI implementation, regulatory considerations, and practical use cases in the banking sector.</p>
             </div>
