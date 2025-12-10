@@ -171,6 +171,18 @@
                       <Icon name="devicon-plain:mongodb" class="w-3 h-3 mr-1" />
                       MongoDB
                     </span>
+                    <span class="px-2 py-1 bg-purple-100 text-purple-800 rounded text-xs flex items-center">
+                      <Icon name="logos:redis" class="w-3 h-3 mr-1" />
+                      Redis
+                    </span>
+                    <span class="px-2 py-1 bg-purple-100 text-purple-800 rounded text-xs flex items-center">
+                      <Icon name="logos:rabbitmq-icon" class="w-3 h-3 mr-1" />
+                      RabbitMQ
+                    </span>
+                    <span class="px-2 py-1 bg-purple-100 text-purple-800 rounded text-xs flex items-center">
+                      <Icon name="logos:kafka-icon" class="w-3 h-3 mr-1" />
+                      Apache Kafka
+                    </span>
                   </div>
                 </div>
 
