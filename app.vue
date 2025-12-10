@@ -37,7 +37,7 @@
           </div>
           <div
             class="flex justify-center md:justify-start space-x-4 mt-4 print:justify-start print:space-x-3 print:mt-2 print:text-xs">
-            <a href="https://www.linkedin.com/in/ludovick-konyo-186504252/"
+            <a href="https://www.linkedin.com/in/ludovick-konyo/"
               class="text-blue-600 hover:text-blue-800 flex items-center print:no-underline bg-white py-1.5 px-3 rounded-md shadow-sm hover:shadow transition-all duration-200 border border-blue-100">
               <Icon name="uiw:linkedin" class="text-blue-500 w-5 h-4" />
               LinkedIn
