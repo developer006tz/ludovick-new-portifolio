@@ -6,6 +6,3 @@ Disallow: /contact-form/
 
 # Sitemap
 Sitemap: https://ludovick.site/sitemap.xml
-
-# Crawl delay
-Crawl-delay: 10

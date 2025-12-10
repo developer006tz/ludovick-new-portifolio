@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare",
     "start": "node .output/server/index.mjs"
   },
-  "packageManager": "",
+  "packageManager": "pnpm@10.23.0",
   "dependencies": {
     "@nuxt/icon": "^1.11.0",
     "@nuxt/image": "^1.10.0",
